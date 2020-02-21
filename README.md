@@ -1,4 +1,4 @@
-## My Independent Project Week two
+## My Independent Project Week three
 ### This is my Delani studio Project on 21st February 2020
 ## By Kingori Mwangi
 ## Description
