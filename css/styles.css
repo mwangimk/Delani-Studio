@@ -4,20 +4,20 @@
     margin-bottom: 9%;
 }
 #hed {
-    background-image: url('../images/backgrounds/h_img.jpg');
+    background-image: url('../images/backgrounds/deploy.png');
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
 }
 h6 {
-    height: 1vh;
+    height: 1.1vh;
 }
 #about {
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 51px;
+    margin-bottom: 51px;
 }
 .resize {
-    font-size: cal(1vh + 1vw + .5vmin);
+    font-size: cal(1.1vh + 1vw + .5vmin);
 }
 #about,
 #service,
@@ -46,31 +46,31 @@ h1 {
     padding-bottom: 80px;
 }
 .card-deck {
-    padding: 1% 4%;
+    padding: 1.5% 4.5%;
 }
 .specific {
-    margin-bottom: 4%;
+    margin-bottom: 4.5%;
 }
 .image1 {
-    padding-top: 9%;
-    margin-bottom: 3%;
+    padding-top: 9.5%;
+    margin-bottom: 3.5%;
 }
 .image2 {
-    margin-top: 20%;
-    padding: 35px 0;
+    margin-top: 25%;
+    padding: 40px 0;
 }
 .sermain {
-    margin-top: 15%;
+    margin-top: 16%;
 }
 .hide {
     display: none;
 }
 .form-cont input {
-    width: 49%;
+    width: 52%;
     background: transparent;
 }
 .form-cont textarea {
-    margin-top: 10px;
+    margin-top: 12px;
     width: 100%;
     background: transparent;
 }
@@ -119,7 +119,7 @@ h1 {
     box-shadow: 0 0 20px rgb(0, 0, 0);
     margin: -3px;
     padding: 3px;
-    background: yellowgreen;
+    background: yellow;
 }
 #portfolio img {
     width: 100%;
@@ -144,12 +144,12 @@ h1 {
 }
 .ptag {
     padding: 5% 0;
-    color: white;
+    color: rgb(221, 219, 219);
     background-color: rgba(0, 0, 0, 0.301);
     padding: 50px 10px;
     font-weight: 100%;
     padding-top: 30px;
-    border: 4px solid whitesmoke;
+    border: 4px solid rgb(238, 231, 231);
     font-size: 1.1em;
     line-height: 90%;
     margin: 20% 5%;
@@ -157,17 +157,17 @@ h1 {
     letter-spacing: 2px;
     font-family: 'Merienda', cursive;
 }
-@media screen and (max-width:450px) {
+@media screen and (max-width:500px) {
     .form-cont input {
         width: 100%;
-        margin-top: 10px;
+        margin-top: 12px;
     } 
     body{
         overflow-x: hidden;
     }
 }
-@media screen and (max-width:1024px) {
+@media screen and (max-width:1030px) {
     * {
-        font-size: calc(1vw + 1vh + .5vmin);
+        font-size: calc(1.1vw + 1.1vh + .5vmin);
     }
 }
